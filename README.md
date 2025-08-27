@@ -1,6 +1,6 @@
 Custom build for ARM for Windows 11 ARM 
 
-Windows 11 ARM running on MAC parallels
+Windows 11 ARM running on MAC parallels download from releases ARM32 for older win 10 ARM ARM64 for all others.
 
 <img width="801" height="310" alt="image" src="https://github.com/user-attachments/assets/0cc66fb4-587d-4f9e-b131-0092580b8428" />
 
