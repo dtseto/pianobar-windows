@@ -1,3 +1,10 @@
+Custom build for ARM for Windows 11 ARM 
+
+Windows 11 ARM running on MAC parallels
+
+<img width="801" height="310" alt="image" src="https://github.com/user-attachments/assets/0cc66fb4-587d-4f9e-b131-0092580b8428" />
+
+
 pianobar is a console client for the personalized web radio [Pandora](http://www.pandora.com) ported to Windows.
 
 ![pianobar](https://user-images.githubusercontent.com/1197433/79893843-e7af9180-8404-11ea-993e-90ed37b072c1.png)
